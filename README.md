@@ -1,1 +1,1 @@
-# ForecastingPrinciples
+# Forecasting Principles
